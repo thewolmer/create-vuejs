@@ -67,6 +67,7 @@ Open your web browser and visit http://localhost:5173. You should see the defaul
 
 The project structure is organized as follows:
 
+```bash
 ├── public/
 │ ├── \_redirects
 │ └── favicon.ico
@@ -90,6 +91,7 @@ The project structure is organized as follows:
 ├── tailwind.config.js
 ├── vite.config.js
 └── README.md
+```
 
 ## License
 
