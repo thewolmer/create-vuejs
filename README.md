@@ -22,42 +22,35 @@ To use this project starter, you need to have the following software installed o
 - npm (Node Package Manager) or yarn or pnpm
 
 ## Getting Started
+### Using npx
+```bash
+npx @wolmer/create-vuejs [project name]
+```
+### Cloning Repo
 
 1. Clone or download this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/thewolmer/create-vuejs
    ```
 
 2. Navigate to the project's root directory:
 
-```bash
-cd your-project
-```
+   ```bash
+   cd create-vuejs
+   ```
 
 3. Install the project dependencies:
 
-```bash
-npm install
-```
-
-or
-
-```bash
-yarn install
-```
-
-or
-
-```bash
-pnpm install
-```
+   ```bash
+   npm install
+   ```
 
 4. Start the development server:
 
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 
 The development server will run at http://localhost:5173
 
@@ -96,6 +89,9 @@ The project structure is organized as follows:
 ## License
 
 This project is licensed under the MIT License. Feel free to use and modify it for your own projects.
+
+## Author
+- [@thewolmer](https://wolmer.me/)
 
 ##Acknowledgements
 This project starter is built upon the foundation of Vue.js and utilizes various open-source dependencies. We express our gratitude to the developers of these projects for their contributions.
